@@ -1,0 +1,23 @@
+body {
+  padding-top: 100px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbar {
+  width: 100%;
+}
+.local-present {
+  padding-top: 50px;
+  width: 100%;
+}
+.local-casting {
+  padding-top: 40px;
+  width: 100%;
+}
+.hours {
+  list-style: none;
+  font-size: 15px;
+}
+.days {
+  list-style: none;
+}
